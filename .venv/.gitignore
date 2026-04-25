@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+.venv/
+env/
+.env
+
+# --- pytest ---
+.pytest_cache/
+.coverage
+htmlcov/
+.pytest_cache/
+junit.xml
+
+# --- IDEs e Editores ---
+.vscode/
+.idea/
+.DS_Store
